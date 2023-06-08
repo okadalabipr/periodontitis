@@ -1,0 +1,52 @@
+# parameter set: 1
+
+
+def param_values():
+    x = [0] * C.NUM
+    x[C.ext_up] = 8.811e-01
+    x[C.ext_sp] = 5.775e+00
+    x[C.lyz2] = 2.247e-02
+    x[C.defb3] = 2.779e-01
+    x[C.ctsk] = 6.079e-01
+    x[C.alpl] = 3.451e-02
+    x[C.k1] = 3.567e-02
+    x[C.ppp_1] = 3.883e-01
+    x[C.ppp_2] = 4.031e-01
+    x[C.dppp1r11] = 6.847e-01
+    x[C.tnf] = 2.787e-01
+    x[C.cxcl3] = 1.584e-01
+    x[C.pdcd1] = 1.350e-01
+    x[C.pdcd2] = 1.022e+00
+    x[C.arg_1] = 2.999e-01
+    x[C.arg_2] = 3.415e-02
+    x[C.dpdcd] = 1.248e-01
+    x[C.darg1] = 2.683e-01
+    x[C.il10_a] = 4.350e-01
+    x[C.inh_a] = 3.384e-02
+    x[C.il10_b] = 4.552e-03
+    x[C.inh_b] = 3.105e+00
+    x[C.dil10] = 6.126e-01
+    x[C.tlrsele] = 1.186e+00
+    x[C.tek_1] = 2.191e+00
+    x[C.tek_2] = 8.963e+00
+    x[C.dtek] = 2.143e+00
+    x[C.ccl2] = 6.212e-01
+    x[C.csf1] = 1.576e-01
+    x[C.gja] = 1.234e-01
+    x[C.ostdeg] = 3.930e-01
+    x[C.ccl9] = 3.313e-01
+    x[C.rankl] = 1.810e-03
+    x[C.mmp3] = 7.145e-02
+    x[C.gpx] = 1.000e+00
+    x[C.Ligand] = 1.000e+00
+    x[C.EGF] = 1.000e+00
+    x[C.HRG] = 1.000e+00
+    x[C.no_ligand] = 1.000e+00
+
+
+def initial_values():
+    y0 = [0] * V.NUM
+    y0[V.epi] = 2.000e+00
+    y0[V.boneres] = 5.000e+00
+    y0[V.ext] = 1.000e+00
+    y0[V.ob] = 1.000e+00

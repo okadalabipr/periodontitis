@@ -1,0 +1,206 @@
+Generating the initial population. . .
+1 / 102
+2 / 102
+3 / 102
+4 / 102
+5 / 102
+6 / 102
+7 / 102
+8 / 102
+9 / 102
+10 / 102
+11 / 102
+12 / 102
+13 / 102
+14 / 102
+15 / 102
+16 / 102
+17 / 102
+18 / 102
+19 / 102
+20 / 102
+21 / 102
+22 / 102
+23 / 102
+24 / 102
+25 / 102
+26 / 102
+27 / 102
+28 / 102
+29 / 102
+30 / 102
+31 / 102
+32 / 102
+33 / 102
+34 / 102
+35 / 102
+36 / 102
+37 / 102
+38 / 102
+39 / 102
+40 / 102
+41 / 102
+42 / 102
+43 / 102
+44 / 102
+45 / 102
+46 / 102
+47 / 102
+48 / 102
+49 / 102
+50 / 102
+51 / 102
+52 / 102
+53 / 102
+54 / 102
+55 / 102
+56 / 102
+57 / 102
+58 / 102
+59 / 102
+60 / 102
+61 / 102
+62 / 102
+63 / 102
+64 / 102
+65 / 102
+66 / 102
+67 / 102
+68 / 102
+69 / 102
+70 / 102
+71 / 102
+72 / 102
+73 / 102
+74 / 102
+75 / 102
+76 / 102
+77 / 102
+78 / 102
+79 / 102
+80 / 102
+81 / 102
+82 / 102
+83 / 102
+84 / 102
+85 / 102
+86 / 102
+87 / 102
+88 / 102
+89 / 102
+90 / 102
+91 / 102
+92 / 102
+93 / 102
+94 / 102
+95 / 102
+96 / 102
+97 / 102
+98 / 102
+99 / 102
+100 / 102
+101 / 102
+102 / 102
+
+----------------------------------------
+
+Generation1: Best Fitness = 2.452476e+02
+Generation2: Best Fitness = 1.953365e+01
+Generation3: Best Fitness = 1.953365e+01
+Generation4: Best Fitness = 1.787194e+01
+Generation5: Best Fitness = 1.216469e+01
+Generation6: Best Fitness = 1.216469e+01
+Generation7: Best Fitness = 1.131786e+01
+Generation8: Best Fitness = 1.131786e+01
+Generation9: Best Fitness = 1.116721e+01
+Generation10: Best Fitness = 1.088158e+01
+Generation11: Best Fitness = 1.059297e+01
+Generation12: Best Fitness = 1.053714e+01
+Generation13: Best Fitness = 1.053714e+01
+Generation14: Best Fitness = 1.050700e+01
+Generation15: Best Fitness = 1.050700e+01
+Generation16: Best Fitness = 8.438023e+00
+Generation17: Best Fitness = 8.438023e+00
+Generation18: Best Fitness = 8.438023e+00
+Generation19: Best Fitness = 8.438023e+00
+Generation20: Best Fitness = 8.070753e+00
+Generation21: Best Fitness = 8.070753e+00
+Generation22: Best Fitness = 8.027904e+00
+Generation23: Best Fitness = 7.930055e+00
+Generation24: Best Fitness = 7.773480e+00
+Generation25: Best Fitness = 7.660548e+00
+Generation26: Best Fitness = 7.608405e+00
+Generation27: Best Fitness = 7.608405e+00
+Generation28: Best Fitness = 7.538504e+00
+Generation29: Best Fitness = 7.467757e+00
+Generation30: Best Fitness = 7.356876e+00
+Generation31: Best Fitness = 7.356876e+00
+Generation32: Best Fitness = 7.263401e+00
+Generation33: Best Fitness = 7.263401e+00
+Generation34: Best Fitness = 7.263401e+00
+Generation35: Best Fitness = 7.182487e+00
+Generation36: Best Fitness = 7.064093e+00
+Generation37: Best Fitness = 7.064093e+00
+Generation38: Best Fitness = 7.064093e+00
+Generation39: Best Fitness = 7.064093e+00
+Generation40: Best Fitness = 7.064093e+00
+Generation41: Best Fitness = 7.064093e+00
+Generation42: Best Fitness = 7.064093e+00
+Generation43: Best Fitness = 6.872259e+00
+Generation44: Best Fitness = 6.532254e+00
+Generation45: Best Fitness = 6.445711e+00
+Generation46: Best Fitness = 6.445711e+00
+Generation47: Best Fitness = 6.368196e+00
+Generation48: Best Fitness = 6.368196e+00
+Generation49: Best Fitness = 6.368196e+00
+Generation50: Best Fitness = 6.330547e+00
+Generation51: Best Fitness = 6.326684e+00
+Generation52: Best Fitness = 6.326684e+00
+Generation53: Best Fitness = 6.127756e+00
+Generation54: Best Fitness = 6.127756e+00
+Generation55: Best Fitness = 6.127756e+00
+Generation56: Best Fitness = 6.127756e+00
+Generation57: Best Fitness = 6.083856e+00
+Generation58: Best Fitness = 6.083856e+00
+Generation59: Best Fitness = 6.052700e+00
+Generation60: Best Fitness = 6.008213e+00
+Generation61: Best Fitness = 5.884152e+00
+Generation62: Best Fitness = 5.884152e+00
+Generation63: Best Fitness = 5.808116e+00
+Generation64: Best Fitness = 5.791436e+00
+Generation65: Best Fitness = 5.768050e+00
+Generation66: Best Fitness = 5.768050e+00
+Generation67: Best Fitness = 5.740486e+00
+Generation68: Best Fitness = 5.728611e+00
+Generation69: Best Fitness = 5.709716e+00
+Generation70: Best Fitness = 5.700813e+00
+Generation71: Best Fitness = 5.700813e+00
+Generation72: Best Fitness = 5.695997e+00
+Generation73: Best Fitness = 5.695997e+00
+Generation74: Best Fitness = 5.685319e+00
+Generation75: Best Fitness = 5.685319e+00
+Generation76: Best Fitness = 5.681478e+00
+Generation77: Best Fitness = 5.674286e+00
+Generation78: Best Fitness = 5.674286e+00
+Generation79: Best Fitness = 5.664706e+00
+Generation80: Best Fitness = 5.664706e+00
+Generation81: Best Fitness = 5.664706e+00
+Generation82: Best Fitness = 5.657775e+00
+Generation83: Best Fitness = 5.649624e+00
+Generation84: Best Fitness = 5.639388e+00
+Generation85: Best Fitness = 5.639388e+00
+Generation86: Best Fitness = 5.639388e+00
+Generation87: Best Fitness = 5.634698e+00
+Generation88: Best Fitness = 5.594285e+00
+Generation89: Best Fitness = 5.594285e+00
+Generation90: Best Fitness = 5.581935e+00
+Generation91: Best Fitness = 5.581935e+00
+Generation92: Best Fitness = 5.581935e+00
+Generation93: Best Fitness = 5.576712e+00
+Generation94: Best Fitness = 5.576712e+00
+Generation95: Best Fitness = 5.566682e+00
+Generation96: Best Fitness = 5.563900e+00
+Generation97: Best Fitness = 5.563900e+00
+Generation98: Best Fitness = 5.563900e+00
+Generation99: Best Fitness = 5.563900e+00
+Generation100: Best Fitness = 5.555549e+00
